@@ -55,8 +55,14 @@ In conclusion, the best-performing model considering mean absolute error is the 
 
 ## Challenges
 
+One of the challenges of this project was handling the data, as dealing with time series required splitting multiple observations in order to predict a certain number of future timesteps.
+
+Another significant challenge was selecting the best parameters for the GRU model, as minor modifications to these parameters resulted in significant differences in training and validation errors. Therefore, a significant portion of the work time was dedicated to this process.
+
 
 ## What else i might have done?
+
+Another aspect I would have addressed is finding a way to recover or replace the spurious data. Because, in this case they represent only 0.63% of the dataset, but in futures works, these data points may be significant. Therefore, it could be useful to develop strategies for replacing these data points.
 
 
 ## Authors

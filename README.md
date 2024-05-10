@@ -1,9 +1,8 @@
 
-# Heart Disease Classification
+# Waves Prediction
 
-The purpose of this project is to build a machine learning model to classify the presence or absence of heart disease based on 11 different features related to medical parameters. Utilizing the [Heart Disease Dataset](https://www.kaggle.com/datasets/mexwell/heart-disease-dataset/data) from Kaggle, which combines five popular heart disease datasets.
 
-![Heart Image](/images/Heart_Disease.jpg "Heart Logo")
+![Waves](/Images/dataset-cover.jpg "Waves")
 
 
 ## Methods Used
@@ -11,6 +10,7 @@ The purpose of this project is to build a machine learning model to classify the
  - Machine Learning
  - Predictive Modeling
  - Data Visualization
+ - Deep Learning
 
 
 ## Technologies
@@ -20,7 +20,7 @@ The purpose of this project is to build a machine learning model to classify the
 - Pandas
 - Seaborn
 - Missingno
-- Scikit Learn
+- Keras
 
 
 ## Needs of this project
@@ -31,7 +31,7 @@ The purpose of this project is to build a machine learning model to classify the
 
 ## Conclusions
 
-![Confussion Matrix](/images/Confussion_Matrix.png "Confussion Matrix")
+![Predictions](/Images/Prediction_Test.png "Predictions")
 
 ## Challenges
 
